@@ -14,6 +14,16 @@ path/to/xulrunner application.ini --jsconsole
 [XULRunner SDK]: http://ftp.mozilla.org/pub/xulrunner/releases/latest/sdk/
 
 
+## Why?
+
+Mostly because XUL allows you to get native look and feel everywhere (as
+opposed to HTML, which would look pretty much the same on all platforms).
+
+Also, it might be more performant (i. e. a bare Electron instance (no app
+loaded, run `electron` without arguments) takes up 200 MB of RAM on my laptop
+while the example app in this repo uses half as much).
+
+
 ## What's happening
 
 When you start the app, it loads [main.xul][] (specified in [prefs.js][]).
