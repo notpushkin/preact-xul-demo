@@ -1,5 +1,7 @@
 # Preact XUL demo
 
+![Screenshot](https://cloud.githubusercontent.com/assets/1298948/21626529/15632900-d22b-11e6-953f-faeefb50c39a.png)
+
 A quick demo of [Preact][] with XUL (i. e. that thing that Firefox uses under
 the hood). Grab a copy of [XULRunner SDK][] (it is deprecated, but let's forget
 about that for a minute), then:
