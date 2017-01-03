@@ -4,7 +4,7 @@
 <window title="Preact XUL demo"
         xmlns:html="http://www.w3.org/1999/xhtml"
         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
-        width="800px" height="500px">
+        width="640px" height="480px">
   <box id="appRoot" orient="horizontal"></box>
   <script type="application/javascript" src="chrome://myapp/content/vendor/preact.js"/>
   <script type="application/javascript" src="chrome://myapp/content/main.js"/>
